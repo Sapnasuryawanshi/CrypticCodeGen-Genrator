@@ -1,2 +1,2 @@
 # CrypticCodeGen-Genrator
-Genrate code to website
+genrating password with your choice 
